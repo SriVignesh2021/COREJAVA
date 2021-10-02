@@ -1,0 +1,13 @@
+class GrinderRunner{
+
+public static void main(String [] Machine){
+
+ Grinder grinder=new Grinder()
+ System.out.println(grinder.capacity);
+ System.out.println(grinder.company);
+
+
+}
+
+
+

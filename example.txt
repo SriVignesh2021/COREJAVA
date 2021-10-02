@@ -1,0 +1,31 @@
+Has a 
+
+1. Vehicle 
+2. car has a tyre
+Metro and track 
+
+Grinder
+	int capacity;
+	String company;
+	Motor motor;
+	
+Motor 
+	String model;
+	int rpm;
+
+
+Program in Starter 
+	print all values of grinder with motor 
+	
+
+	
+	
+Watch
+	price 
+	brand
+	
+	Needle 
+	Glass
+			Light
+	
+	null 

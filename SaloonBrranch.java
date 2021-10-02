@@ -1,0 +1,5 @@
+enum SaloonBranch{
+
+   MARATHALLI,WHITEFIELD,JAYANAGAR,BTM,SILKBOARD;
+
+}
