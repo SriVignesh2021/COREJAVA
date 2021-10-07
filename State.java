@@ -1,0 +1,5 @@
+enum State{
+
+ANDHRAPRADESH,KARNATAKA,BANGLORE;
+
+}
